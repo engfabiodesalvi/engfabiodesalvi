@@ -22,8 +22,10 @@ I am interested in **software development, automation, embedded systems, and sol
 - 📘 [Simple Examples in C](https://github.com/engfabiodesalvi/simple-examples-c)  
 Practical examples organized in C language for learning and practicing programming.  
 
+<!--
 - 🎮 [Java 2D Game MVC](https://github.com/engfabiodesalvi/java-2d-game)  
 2D game developed in Java, using MVC architecture, animations, and sounds.  
+-->
 
 - 🛠️ [Node.js Training](https://github.com/engfabiodesalvi/formacao-nodejs)  
 Repository with exercises and applied studies in Node.js.  
