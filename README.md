@@ -34,8 +34,13 @@ Repository with exercises and applied studies in Node.js.
 Flowchart and technical documentation for organization and analysis of a basic food basket.  
 
 - 🏃 [Physical Activity Recording System](https://github.com/engfabiodesalvi/physical-activity-recording-system)  
-C system for recording and visualizing daily physical activities.  
+C system for recording and visualizing daily physical activities.
 
+### Python
+
+- [Python Performance Benchmark
+](https://github.com/engfabiodesalvi/python-performance-benchmark.git)  
+Structural performance benchmark in Python comparing dictionaries (defaultdict, setdefault) and list comprehensions in commercial Big Data scenarios.
 ---
 
 ## 📈 GitHub Stats  
