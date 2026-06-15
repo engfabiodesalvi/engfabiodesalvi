@@ -41,6 +41,9 @@ C system for recording and visualizing daily physical activities.
 - [Python Performance Benchmark](https://github.com/engfabiodesalvi/python-performance-benchmark.git)  
 Structural performance benchmark in Python comparing dictionaries (defaultdict, setdefault) and list comprehensions in commercial Big Data scenarios.
 
+- [Extrator de Transcrições do YouTube com Playwright](https://github.com/engfabiodesalvi/youtube-transcript-knowledge-base.git)
+  YouTube transcript extractor built with Python, Playwright and BeautifulSoup. Automates caption extraction and JSON export.
+
 ### PHP
 
 - [PHP Variáveis - Composer, PSR-4 e Tipos de Dados](https://github.com/engfabiodesalvi/php-saas-learning.git)  
@@ -109,6 +112,9 @@ Sistema em C para registro e visualização de atividades físicas diárias.
 
 - [Python Performance Benchmark](https://github.com/engfabiodesalvi/python-performance-benchmark.git)  
 Análise comparativa de desempenho estrutural em Python, comparando dicionários (defaultdict, setdefault) e list comprehensions em cenários comerciais de Big Data.
+
+- [Extrator de Transcrições do YouTube com Playwright](https://github.com/engfabiodesalvi/youtube-transcript-knowledge-base.git)
+  Extrator de transcrições do YouTube em Python com Playwright e BeautifulSoup. Automatiza captura de legendas e exportação para JSON.
 
 ### PHP
 
