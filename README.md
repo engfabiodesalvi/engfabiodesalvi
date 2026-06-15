@@ -113,7 +113,7 @@ Sistema em C para registro e visualização de atividades físicas diárias.
 - [Python Performance Benchmark](https://github.com/engfabiodesalvi/python-performance-benchmark.git)  
 Análise comparativa de desempenho estrutural em Python, comparando dicionários (defaultdict, setdefault) e list comprehensions em cenários comerciais de Big Data.
 
-- [Extrator de Transcrições do YouTube com Playwright e BeautifulSoup](https://github.com/engfabiodesalvi/youtube-transcript-knowledge-base.git]  
+- [YouTube Transcript Extractor with Playwright and BeautifulSoup](https://github.com/engfabiodesalvi/youtube-transcript-knowledge-base.git]  
   Extrator de transcrições do YouTube em Python com Playwright e BeautifulSoup. Automatiza captura de legendas e exportação para JSON.
 
 ### PHP
