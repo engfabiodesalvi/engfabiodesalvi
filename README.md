@@ -38,14 +38,12 @@ C system for recording and visualizing daily physical activities.
 
 ### Python
 
-- [Python Performance Benchmark]
-(https://github.com/engfabiodesalvi/python-performance-benchmark.git)  
+- [Python Performance Benchmark](https://github.com/engfabiodesalvi/python-performance-benchmark.git)  
 Structural performance benchmark in Python comparing dictionaries (defaultdict, setdefault) and list comprehensions in commercial Big Data scenarios.
 
 ### PHP
 
-- [PHP Variáveis - Composer, PSR-4 e Tipos de Dados]
-(https://github.com/engfabiodesalvi/php-saas-learning.git)
+- [PHP Variáveis - Composer, PSR-4 e Tipos de Dados](https://github.com/engfabiodesalvi/php-saas-learning.git)
 This project was developed with the goal of studying modern PHP using Composer, PSR-4 Autoloading, and Strong Typing, applying the fundamental concepts of variables and data types in a scenario similar to that found in corporate applications.
 ---
 
@@ -109,14 +107,12 @@ Sistema em C para registro e visualização de atividades físicas diárias.
 
 ### Python
 
-- [Python Performance Benchmark
-](https://github.com/engfabiodesalvi/python-performance-benchmark.git)  
+- [Python Performance Benchmark](https://github.com/engfabiodesalvi/python-performance-benchmark.git)  
 Análise comparativa de desempenho estrutural em Python, comparando dicionários (defaultdict, setdefault) e list comprehensions em cenários comerciais de Big Data.
 
 ### PHP
 
-- [PHP Variáveis - Composer, PSR-4 e Tipos de Dados]
-(https://github.com/engfabiodesalvi/php-saas-learning.git)
+- [PHP Variáveis - Composer, PSR-4 e Tipos de Dados](https://github.com/engfabiodesalvi/php-saas-learning.git)
 Projeto desenvolvido com o objetivo de estudar PHP moderno utilizando Composer, Autoload PSR-4 e Tipagem Forte, aplicando os conceitos fundamentais de variáveis e tipos de dados em um cenário próximo ao encontrado em aplicações corporativas
 ---
 
