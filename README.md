@@ -43,7 +43,7 @@ Structural performance benchmark in Python comparing dictionaries (defaultdict, 
 
 ### PHP
 
-- [PHP Variáveis - Composer, PSR-4 e Tipos de Dados](https://github.com/engfabiodesalvi/php-saas-learning.git)
+- [PHP Variáveis - Composer, PSR-4 e Tipos de Dados](https://github.com/engfabiodesalvi/php-saas-learning.git)  
 This project was developed with the goal of studying modern PHP using Composer, PSR-4 Autoloading, and Strong Typing, applying the fundamental concepts of variables and data types in a scenario similar to that found in corporate applications.
 ---
 
@@ -112,7 +112,7 @@ Análise comparativa de desempenho estrutural em Python, comparando dicionários
 
 ### PHP
 
-- [PHP Variáveis - Composer, PSR-4 e Tipos de Dados](https://github.com/engfabiodesalvi/php-saas-learning.git)
+- [PHP Variáveis - Composer, PSR-4 e Tipos de Dados](https://github.com/engfabiodesalvi/php-saas-learning.git)  
 Projeto desenvolvido com o objetivo de estudar PHP moderno utilizando Composer, Autoload PSR-4 e Tipagem Forte, aplicando os conceitos fundamentais de variáveis e tipos de dados em um cenário próximo ao encontrado em aplicações corporativas
 ---
 
