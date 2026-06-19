@@ -47,7 +47,11 @@ Structural performance benchmark in Python comparing dictionaries (defaultdict, 
 ### PHP
 
 - [PHP Variáveis - Composer, PSR-4 e Tipos de Dados](https://github.com/engfabiodesalvi/php-saas-learning.git)  
-This project was developed with the goal of studying modern PHP using Composer, PSR-4 Autoloading, and Strong Typing, applying the fundamental concepts of variables and data types in a scenario similar to that found in corporate applications.
+  This project was developed with the goal of studying modern PHP using Composer, PSR-4 Autoloading, and Strong Typing, applying the fundamental concepts of variables and data types in a scenario similar to that found in corporate applications.
+
+- [PHP Native User Management API](https://github.com/engfabiodesalvi/pure-php-mvc-rest-api-boilerplate.git)  
+  A lightweight, native PHP RESTful API for user management built on MVC architecture. Features a flat-file JSON database, dynamic routing, memory-efficient payload validation via json_validate(), and an advanced bulk storage endpoint with intelligent, two-tier duplicate verification.
+  
 ---
 
 ## 📈 GitHub Stats  
@@ -119,7 +123,11 @@ Análise comparativa de desempenho estrutural em Python, comparando dicionários
 ### PHP
 
 - [PHP Variáveis - Composer, PSR-4 e Tipos de Dados](https://github.com/engfabiodesalvi/php-saas-learning.git)  
-Projeto desenvolvido com o objetivo de estudar PHP moderno utilizando Composer, Autoload PSR-4 e Tipagem Forte, aplicando os conceitos fundamentais de variáveis e tipos de dados em um cenário próximo ao encontrado em aplicações corporativas
+  Projeto desenvolvido com o objetivo de estudar PHP moderno utilizando Composer, Autoload PSR-4 e Tipagem Forte, aplicando os conceitos fundamentais de variáveis e tipos de dados em um cenário próximo ao encontrado em aplicações corporativas
+
+- [API nativa de gerenciamento de usuários em PHP](https://github.com/engfabiodesalvi/pure-php-mvc-rest-api-boilerplate.git)  
+  API nativa de gerenciamento de usuários em PHP: Uma API RESTful nativa e leve para gerenciamento de usuários, construída sobre a arquitetura MVC. Apresenta um banco de dados JSON em formato de arquivo simples, roteamento dinâmico, validação de payload com uso eficiente de memória via json_validate() e um endpoint avançado para armazenamento em lote com verificação inteligente de duplicatas em duas etapas.
+
 ---
 
 ## 📈 Estatísticas do GitHub  
