@@ -51,6 +51,9 @@ Structural performance benchmark in Python comparing dictionaries (defaultdict, 
 
 - [PHP Native User Management API](https://github.com/engfabiodesalvi/pure-php-mvc-rest-api-boilerplate.git)  
   A lightweight, native PHP RESTful API for user management built on MVC architecture. Features a flat-file JSON database, dynamic routing, memory-efficient payload validation via json_validate(), and an advanced bulk storage endpoint with intelligent, two-tier duplicate verification.
+
+- [PHP ZIP Code Lookup](https://github.com/engfabiodesalvi/busca-cep-php)  
+  Modern PHP library for ZIP Code lookup using multiple providers, featuring Retry, Failover, Circuit Breaker, Logging, layered architecture, SOLID principles, PSR-4, automated tests, and ready for distribution via Composer and Packagist.  
   
 ---
 
@@ -128,6 +131,8 @@ Análise comparativa de desempenho estrutural em Python, comparando dicionários
 - [API nativa de gerenciamento de usuários em PHP](https://github.com/engfabiodesalvi/pure-php-mvc-rest-api-boilerplate.git)  
   API nativa de gerenciamento de usuários em PHP: Uma API RESTful nativa e leve para gerenciamento de usuários, construída sobre a arquitetura MVC. Apresenta um banco de dados JSON em formato de arquivo simples, roteamento dinâmico, validação de payload com uso eficiente de memória via json_validate() e um endpoint avançado para armazenamento em lote com verificação inteligente de duplicatas em duas etapas.
 
+- [Busca CEP PHP](https://github.com/engfabiodesalvi/busca-cep-php)  
+  Biblioteca PHP moderna para consulta de CEP utilizando múltiplos provedores, com Retry, Failover, Circuit Breaker, Logging, arquitetura em camadas, SOLID, PSR-4, testes automatizados e suporte à publicação via Composer e Packagist.
 ---
 
 ## 📈 Estatísticas do GitHub  
