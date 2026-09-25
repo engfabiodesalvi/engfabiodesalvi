@@ -19,22 +19,31 @@ I am interested in **software development, automation, embedded systems, and sol
 
 ## 📌 Featured Projects  
 
-- 📘 [Simple Examples in C](https://github.com/engfabiodesalvi/simple-examples-c)  
-Practical examples organized in C language for learning and practicing programming.  
 
-<!--
-- 🎮 [Java 2D Game MVC](https://github.com/engfabiodesalvi/java-2d-game)  
-2D game developed in Java, using MVC architecture, animations, and sounds.  
--->
-
-- 🛠️ [Node.js Training](https://github.com/engfabiodesalvi/formacao-nodejs)  
-Repository with exercises and applied studies in Node.js.  
+### Flowchart
 
 - 📊 [Basic Food Basket Flowchart](https://github.com/engfabiodesalvi/basic-food-basket-flowchart)  
 Flowchart and technical documentation for organization and analysis of a basic food basket.  
 
+### Node
+
+- 🛠️ [Node.js Training](https://github.com/engfabiodesalvi/formacao-nodejs)  
+Repository with exercises and applied studies in Node.js.  
+
+### C
+
 - 🏃 [Physical Activity Recording System](https://github.com/engfabiodesalvi/physical-activity-recording-system)  
 C system for recording and visualizing daily physical activities.
+
+- 📘 [Simple Examples in C](https://github.com/engfabiodesalvi/simple-examples-c)  
+Practical examples organized in C language for learning and practicing programming.  
+
+
+### Java
+
+- 🎮 [Java 2D Game MVC](https://github.com/engfabiodesalvi/java-2d-mvc)  
+2D game developed in Java, using MVC architecture, animations, and sounds.  
+
 
 ### Python
 
@@ -98,22 +107,29 @@ Tenho interesse em **desenvolvimento de software, automação, sistemas embarcad
 
 ## 📌 Projetos em destaque  
 
-- 📘 [Simple Examples in C](https://github.com/engfabiodesalvi/simple-examples-c)  
-Exemplos práticos organizados em linguagem C para aprendizado e prática de programação.  
-
-<!--
-- 🎮 [Java 2D Game MVC](https://github.com/engfabiodesalvi/java-2d-game)  
-Jogo 2D desenvolvido em Java, utilizando arquitetura MVC, animações e sons.  
--->
-
-- 🛠️ [Formação Node.js](https://github.com/engfabiodesalvi/formacao-nodejs)  
-Repositório com exercícios e estudos aplicados em Node.js.  
+### Fluxograma
 
 - 📊 [Basic Food Basket Flowchart](https://github.com/engfabiodesalvi/basic-food-basket-flowchart)  
 Fluxograma e documentação técnica para organização e análise de cesta básica.  
 
+
+### Node
+
+- 🛠️ [Formação Node.js](https://github.com/engfabiodesalvi/formacao-nodejs)  
+Repositório com exercícios e estudos aplicados em Node.js.  
+
+### C
+
+- 📘 [Simple Examples in C](https://github.com/engfabiodesalvi/simple-examples-c)  
+Exemplos práticos organizados em linguagem C para aprendizado e prática de programação.  
+
 - 🏃 [Physical Activity Recording System](https://github.com/engfabiodesalvi/physical-activity-recording-system)  
 Sistema em C para registro e visualização de atividades físicas diárias.  
+
+### Java
+
+- 🎮 [Java 2D Game MVC](https://github.com/engfabiodesalvi/java-2d-mvc)  
+Jogo 2D desenvolvido em Java, utilizando arquitetura MVC, animações e sons.  
 
 ### Python
 
