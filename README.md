@@ -19,6 +19,11 @@ I am interested in **software development, automation, embedded systems, and sol
 
 ## 📌 Featured Projects  
 
+### Figma
+
+- [Using Figma to prototype mobile application screens.](https://github.com/engfabiodesalvi/study-organizer-ui-prototype.git) 
+  Figma prototypes and layout evolution for a mobile application designed to help users organize their studies. Features initial wireframes (Exp-2), redesigned screens (Exp-3), and detailed layout analysis (Exp-4).
+
 ### Amazon SageMaker Canvas
 
 - [Intelligent Inventory Forecasting with Amazon SageMaker Canvas](https://github.com/engfabiodesalvi/aws-sagemaker-canvas-inventory.git)  
@@ -160,6 +165,11 @@ Tenho interesse em **desenvolvimento de software, automação, sistemas embarcad
 ---
 
 ## 📌 Projetos em destaque  
+
+### Figma
+
+- [Uso do Figma na prototipagem de telas de um aplicativo.](https://github.com/engfabiodesalvi/study-organizer-ui-prototype.git)  
+  Protótipos no Figma e evolução do layout de um aplicativo móvel desenvolvido para auxiliar os usuários na organização dos estudos. Apresenta os wireframes iniciais (Exp-2), telas reformuladas (Exp-3) e uma análise detalhada do layout (Exp-4)
 
 ### Amazon SageMaker Canvas
 
