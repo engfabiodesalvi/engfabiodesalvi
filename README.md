@@ -19,24 +19,53 @@ I am interested in **software development, automation, embedded systems, and sol
 
 ## 📌 Featured Projects  
 
+### Amazon SageMaker Canvas
+
+- [Intelligent Inventory Forecasting with Amazon SageMaker Canvas](https://github.com/engfabiodesalvi/aws-sagemaker-canvas-inventory.git)  
+Project developed for a DIO challenge using Amazon SageMaker Canvas, focusing on no-code Machine Learning applied to inventory forecasting, including critical data analysis and interpretation of results.
+
+
+### Excel
+
+- [Integrated ERP and BI System](https://github.com/engfabiodesalvi/Integrated-ERP-BI-System.git)  
+A comprehensive enterprise solution that seamlessly bridges Enterprise Resource Planning (ERP) with Business Intelligence (BI) capabilities, enabling real-time data tracking and advanced analytical reporting.
+This project simulates the complete lifecycle of an organization's administrative, financial, and logistical operations. Utilizing advanced Excel and integration with Word, the solution transforms raw data into a Business Intelligence (BI) dashboard capable of guiding strategic decisions.
 
 ### Flowchart
 
 - 📊 [Basic Food Basket Flowchart](https://github.com/engfabiodesalvi/basic-food-basket-flowchart)  
 Flowchart and technical documentation for organization and analysis of a basic food basket.  
 
-### Node
+### Node / Javascript / Typescript
 
 - 🛠️ [Node.js Training](https://github.com/engfabiodesalvi/formacao-nodejs)  
 Repository with exercises and applied studies in Node.js.  
 
+- 🔗 [API Connect](https://github.com/engfabiodesalvi/api-connect-fabio-toledo.git)  
+Application developed using Node.js and Express, following the fundamental principles of a RESTful architecture. The system provides operations for creation, retrieval, update, and deletion of users, using HTTP requests and responses structured in JSON.
+
+- [API Formula 1](https://github.com/engfabiodesalvi/node-formula-1.git)  
+  Minimalist API using Node.js with the Fastify framework.
+
+- [Podcast Manager](https://github.com/engfabiodesalvi/DIO-nodejs-express-api.git)  
+  Create express API with Express and Node.js.
+
+- [API Podcast Manager](https://github.com/engfabiodesalvi/DIO-node-ts-webapi-without-frameworks-podcast-menager-.git)  
+  Webapi in node and typescript without frameworks to manage a list of podcast videos.
+
+
+
 ### C
 
 - 🏃 [Physical Activity Recording System](https://github.com/engfabiodesalvi/physical-activity-recording-system)  
-C system for recording and visualizing daily physical activities.
+  C system for recording and visualizing daily physical activities.
 
 - 📘 [Simple Examples in C](https://github.com/engfabiodesalvi/simple-examples-c)  
 Practical examples organized in C language for learning and practicing programming.  
+
+- [Rain by Zone](https://github.com/engfabiodesalvi/rain-by-zone.git)  
+  Project in C to register and analyze rainfall data by neighborhood/region over multiple days.
+  The system allows both registering new rainfall intensities and visualizing them as a Heatmap in the terminal.
 
 
 ### Java
@@ -53,7 +82,7 @@ Structural performance benchmark in Python comparing dictionaries (defaultdict, 
 - [YouTube Transcript Extractor with Playwright and BeautifulSoup](https://github.com/engfabiodesalvi/youtube-transcript-knowledge-base.git)  
   YouTube transcript extractor built with Python, Playwright and BeautifulSoup. Automates caption extraction and JSON export.
 
-### PHP
+### PHP / HTML / CSS
 
 - [PHP Variáveis - Composer, PSR-4 e Tipos de Dados](https://github.com/engfabiodesalvi/php-saas-learning.git)  
   This project was developed with the goal of studying modern PHP using Composer, PSR-4 Autoloading, and Strong Typing, applying the fundamental concepts of variables and data types in a scenario similar to that found in corporate applications.
@@ -64,6 +93,31 @@ Structural performance benchmark in Python comparing dictionaries (defaultdict, 
 - [PHP ZIP Code Lookup](https://github.com/engfabiodesalvi/busca-cep-php)  
   Modern PHP library for ZIP Code lookup using multiple providers, featuring Retry, Failover, Circuit Breaker, Logging, layered architecture, SOLID principles, PSR-4, automated tests, and ready for distribution via Composer and Packagist.  
   
+- [CRM using Symfony](https://github.com/engfabiodesalvi/symfony-crm-learning.git)  
+  First Symfony CRM learning
+
+- [CRM using Laravel](https://github.com/engfabiodesalvi/laravel-crm-learning.git)    
+  CRM system built with Laravel 13. This repository features robust user registration using strict FormRequest validations, secure password hashing, and database migrations with Schema Blueprint. Designed with database transaction safety (DB::transaction) directly in the model layer for seamless and secure data handling.
+
+- [Small Business Inventory Management System](https://github.com/engfabiodesalvi/app-inventory.git)  
+  This project details, step by step, the implementation of an Inventory Management System using Laravel 12, Tailwind CSS/Alpine.js, MySQL, Redis, Docker, and GitHub Actions.
+
+### Javascript / HTML / CSS
+
+- [NGO Crafts to Unite!](https://github.com/engfabiodesalvi/NGO-Crafts-to-Unite.git)  
+  Web platform developed to unite those interested in handicrafts! It enables the management of activities, dissemination of projects, fundraising, and engagement of volunteers.
+
+- [Complete Javascript Course 2024](https://github.com/engfabiodesalvi/complete-Javascript-course-2024.git)  
+  A course covering JavaScript language basic
+
+### HTML / CSS
+
+- [Module 3 - HTML track](https://github.com/engfabiodesalvi/trilha-html-modulo-3.git)  
+  Simple layout with applied CSS.
+
+- [HTML Special Resources](https://github.com/engfabiodesalvi/html-special-resources-DIO.git)  
+   HTML Special Resources.
+ 
 ---
 
 ## 📈 GitHub Stats  
@@ -107,16 +161,40 @@ Tenho interesse em **desenvolvimento de software, automação, sistemas embarcad
 
 ## 📌 Projetos em destaque  
 
+### Amazon SageMaker Canvas
+
+- [Previsão Inteligente de Estoque com Amazon SageMaker Canvas](https://github.com/engfabiodesalvi/aws-sagemaker-canvas-inventory.git)  
+Projeto desenvolvido no contexto do desafio da DIO utilizando o Amazon SageMaker Canvas, com foco em Machine Learning no-code aplicado à previsão de estoque, incluindo análise crítica dos dados e interpretação dos resultados.
+
+
+### Excel
+
+- [Projeto: Ecossistema de Gestão Operacional Integrada (ERP-BI)](https://github.com/engfabiodesalvi/Integrated-ERP-BI-System.git)  
+O projeto simula o ciclo completo de operações administrativas, financeiras e logísticas de uma organização. Utilizando Excel avançado e integração com Word, a solução transforma dados brutos em um painel de Business Intelligence (BI) capaz de guiar decisões estratégicas.
+
 ### Fluxograma
 
 - 📊 [Basic Food Basket Flowchart](https://github.com/engfabiodesalvi/basic-food-basket-flowchart)  
 Fluxograma e documentação técnica para organização e análise de cesta básica.  
 
 
-### Node
+### Node / Javascript / Typescript
 
 - 🛠️ [Formação Node.js](https://github.com/engfabiodesalvi/formacao-nodejs)  
 Repositório com exercícios e estudos aplicados em Node.js.  
+
+- 🔗 [API Connect](https://github.com/engfabiodesalvi/api-connect-fabio-toledo.git)  
+Aplicação desenvolvida utilizando Node.js e Express, seguindo os princípios fundamentais de uma arquitetura RESTful. O sistema disponibiliza operações para criação, consulta, atualização e remoção de usuários, utilizando requisições HTTP e respostas estruturadas em JSON.
+
+- [API Fórmula 1](https://github.com/engfabiodesalvi/node-formula-1.git)  
+  API minimalista utilizando Node.js with o framework Fastify.
+
+- [Podcast Manager](https://github.com/engfabiodesalvi/DIO-nodejs-express-api.git)  
+  Criar API Express com Express e Node.js.
+
+- [API Podcast Manager](https://github.com/engfabiodesalvi/DIO-node-ts-webapi-without-frameworks-podcast-menager-.git)  
+  O Podcast Manager é uma aplicação inspirada no estilo da Netflix, que permite centralizar os podcasts e seus episódios separados por critérios como: nome, categoria, descrição, visualizações, curtidas, data de criação, etiqueta ou idioma do vídeo.
+
 
 ### C
 
@@ -125,6 +203,10 @@ Exemplos práticos organizados em linguagem C para aprendizado e prática de pro
 
 - 🏃 [Physical Activity Recording System](https://github.com/engfabiodesalvi/physical-activity-recording-system)  
 Sistema em C para registro e visualização de atividades físicas diárias.  
+
+- [Rain by Zone](https://github.com/engfabiodesalvi/rain-by-zone.git)  
+  Projeto em C para registrar e analisar dados pluviométricos por bairro/região ao longo dos dias.
+  O sistema permite tanto registrar novas intensidades de chuva quanto visualizar os dados em forma de Heatmap colorido no terminal.
 
 ### Java
 
@@ -139,7 +221,7 @@ Análise comparativa de desempenho estrutural em Python, comparando dicionários
 - [YouTube Transcript Extractor with Playwright and BeautifulSoup](https://github.com/engfabiodesalvi/youtube-transcript-knowledge-base.git)  
   Extrator de transcrições do YouTube em Python com Playwright e BeautifulSoup. Automatiza captura de legendas e exportação para JSON.
 
-### PHP
+### PHP / HTML / CSS
 
 - [PHP Variáveis - Composer, PSR-4 e Tipos de Dados](https://github.com/engfabiodesalvi/php-saas-learning.git)  
   Projeto desenvolvido com o objetivo de estudar PHP moderno utilizando Composer, Autoload PSR-4 e Tipagem Forte, aplicando os conceitos fundamentais de variáveis e tipos de dados em um cenário próximo ao encontrado em aplicações corporativas
@@ -149,6 +231,32 @@ Análise comparativa de desempenho estrutural em Python, comparando dicionários
 
 - [Busca CEP PHP](https://github.com/engfabiodesalvi/busca-cep-php)  
   Biblioteca PHP moderna para consulta de CEP utilizando múltiplos provedores, com Retry, Failover, Circuit Breaker, Logging, arquitetura em camadas, SOLID, PSR-4, testes automatizados e suporte à publicação via Composer e Packagist.
+
+- [CRM utilizando Symfony](https://github.com/engfabiodesalvi/symfony-crm-learning.git)  
+  Primeiro CRM utilizando o Symfony.
+
+- [CRM utilizando Laravel](https://github.com/engfabiodesalvi/laravel-crm-learning.git)  
+  Sistema de CRM construído com Laravel 13. O repositório apresenta um sistema de cadastro de usuários robusto utilizando validações estritas via FormRequest, hash de senha seguro e migrations de banco de dados com Schema Blueprint. Projetado com segurança de transação de banco de dados (DB::transaction) diretamente na camada de model para uma manipulação de dados contínua e segura.
+
+- [Sistema de Gestão de Estoque para Pequenas Empresas](https://github.com/engfabiodesalvi/app-inventory.git)  
+  Este projeto detalha passo a passo a implementação do Sistema de Gestão de Estoque usando Laravel 12, Tailwind CSS/Alpine.js, MySQL, Redis, Docker e GitHub Actions.  
+
+### Javascript / HTML / CSS
+
+- [Artesanato para Unir](https://github.com/engfabiodesalvi/NGO-Crafts-to-Unite.git)  
+  O repositório contém o código-fonte do website Artesanato para Unir, um projeto social voltado à inclusão através do artesanato, conectando artesãos, apoiadores e consumidores que valorizam a produção manual sustentável.
+
+- [Curso Javascript Completo 2024 [Iniciantes] + 14 Mini-projetos](https://github.com/engfabiodesalvi/complete-Javascript-course-2024.git)  
+  Curso que aborda o básico da linguagem javascript.
+
+### HTML / CSS
+
+- [Módulo 3 - Trilha HTML](https://github.com/engfabiodesalvi/trilha-html-modulo-3.git)  
+  Layout simples com CSS aplicado.
+- [HTML Recursos Especiais](https://github.com/engfabiodesalvi/html-special-resources-DIO.git)  
+   HTML recursos especiais.
+
+
 ---
 
 ## 📈 Estatísticas do GitHub  
