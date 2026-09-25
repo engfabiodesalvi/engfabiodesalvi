@@ -21,7 +21,7 @@ I am interested in **software development, automation, embedded systems, and sol
 
 ### Figma
 
-- [Using Figma to prototype mobile application screens.](https://github.com/engfabiodesalvi/study-organizer-ui-prototype.git) 
+- [Using Figma to prototype mobile application screens.](https://github.com/engfabiodesalvi/study-organizer-ui-prototype.git)  
   Figma prototypes and layout evolution for a mobile application designed to help users organize their studies. Features initial wireframes (Exp-2), redesigned screens (Exp-3), and detailed layout analysis (Exp-4).
 
 ### Amazon SageMaker Canvas
